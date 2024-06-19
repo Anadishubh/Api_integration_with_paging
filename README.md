@@ -1,6 +1,6 @@
 # apiproject
 
-A new Flutter project.
+Use your own API in place of mine
 
 ## Getting Started
 
